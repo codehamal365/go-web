@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cs-device-management/cs-device-management-service/src/main/java/com/valtech/sulu/registration/DeviceManagementApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cs-device-management/cs-device-management-service/src/main/java/com/valtech/sulu/registration/configuration/ApplicationConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cs-device-management/cs-device-management-service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-auth-proxy/go.mod">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-auth-proxy/src/proxy/configuration.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-auth-proxy/src/proxy/configuration_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-auth-proxy/src/proxy/handle_proxy.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-auth-proxy/src/proxy/handle_proxy_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-orchestrator/go.mod">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-orchestrator/main.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-orchestrator/main_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-orchestrator/sysConfig.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-shared/main.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-shared/src/utils/clientCrt.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-shared/src/utils/clientCrt_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ds-shared/src/utils/remote.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/sulu_common/src/main/java/com/valtech/sulu/CommonApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/go.mod">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/main.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web01-helloworld/main.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web01/main.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web02-form/form.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web02-form/login.gtpl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web03-mysql/init.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web03-mysql/mysql.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web04-redis/redis.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web05-mongo/mongo.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/go.mod">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/main_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/src/registration/uploadCapabilities.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/src/registration/uploadCapabilities_test.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/src/util/tokenUtil.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/src/utils/tokenUtil.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/myproject/ds-core/sysConfig.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
